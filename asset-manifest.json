@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vigneshwaran-bitcot/static/css/main.9188228f.css",
+    "main.js": "/vigneshwaran-bitcot/static/js/main.669e91b4.js",
+    "index.html": "/vigneshwaran-bitcot/index.html",
+    "main.9188228f.css.map": "/vigneshwaran-bitcot/static/css/main.9188228f.css.map",
+    "main.669e91b4.js.map": "/vigneshwaran-bitcot/static/js/main.669e91b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9188228f.css",
+    "static/js/main.669e91b4.js"
+  ]
+}
